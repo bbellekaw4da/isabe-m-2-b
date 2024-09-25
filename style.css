@@ -1,0 +1,14 @@
+body{
+    background-color: bisque #fafad2
+    font-family: Bai Jamjuree;
+}
+
+#conteiner{
+    display: flex;
+}
+
+.cartao{
+
+    margin: 1rem 1rem;
+    background-color: aquamarine;
+}
